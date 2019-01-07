@@ -1,7 +1,7 @@
 Dernek Bilgi Sistemi
 ==============
 
-Template for a simple Vaadin application that only requires a Servlet 3.0 container to run.
+Bu proje Sistem Analizi ve Tasarımı ve Nesne Tabanlı Programlama dersleri final proje konusudur.
 
 
 Workflow
