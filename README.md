@@ -4,9 +4,9 @@ Dernek Bilgi Sistemi
 Bu proje Sistem Analizi ve Tasarımı ve Nesne Tabanlı Programlama dersleri final proje konusudur.
 
 
-#Kullanılan Teknolojiler
+Kullanılan Teknolojiler
 ========
-1)Java 2EE
+1)Java 2EE <br>
 2)Apache Maven
 3)Vaadin Framework
 4)Hibernate ORM
