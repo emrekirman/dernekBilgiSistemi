@@ -3,6 +3,8 @@ Dernek Bilgi Sistemi
 
 Bu proje Sistem Analizi ve Tasarımı ve Nesne Tabanlı Programlama dersleri final proje konusudur.
 
+This project is the final project subject of System Analysis and Design and Object Oriented Programming lessons.
+
 
 Kullanılan Teknolojiler
 ========
